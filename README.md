@@ -57,3 +57,11 @@ Due to the large file size of the interactive Power BI report (.pbix), the full 
 👉 *[Download Power BI Dashboard File](https://drive.google.com/file/d/1lG_EBjUpIjIPP_oGUnr6rhN4rsKfy0yi/view?usp=sharing)*
 
 Note: You will need [Power BI Desktop](https://powerbi.microsoft.com/desktop/) installed to open and interact with the .pbix file.
+
+## 📂 Access to output_file CSV Datase
+
+Due to large file size the CSV dataset has been uploaded to a dedicated Google Drive folder for easy access. You can download the output file via the following link:
+
+👉 [Download CSV Dataset Folder](https://drive.google.com/file/d/1W9UXgQlQrss0-ps6GAc4NU9VrqJVc_TJ/view?usp=sharing)
+
+This file support the Power BI report and enable detailed data analysis.
